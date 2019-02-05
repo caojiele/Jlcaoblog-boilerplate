@@ -13,7 +13,7 @@ baseurl: "/Jlcaoblog-boilerplate"         # for example, '/blog' if your blog ho
 # SNS settings
 RSS: false
 weibo_username:     caojiele
-zhihu_username:     caojiele
+# zhihu_username:     caojiele
 github_username:    caojiele
 #twitter_username:  caojiele
 facebook_username:  caojiele
