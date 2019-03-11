@@ -2,7 +2,7 @@
     "name": "jlcao-blog",
     "title": "Jlcao Blog",
     "version": "1.0.0",
-    "homepage": "https://www.caojiele.com",
+    "homepage": "https://caojiele.com",
     "author": "Jlcao <caojiele1225@126.com>",
     "devDependencies": {
         "grunt": "~0.4.5",
