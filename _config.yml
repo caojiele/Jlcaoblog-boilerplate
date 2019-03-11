@@ -5,13 +5,13 @@ header-img: img/home-bg.jpg
 email: caojiele1225@126.com
 description: ""
 keyword: ""
-url: "https://www.caojiele.com"              # your host, for absolute URL
+url: "https://caojiele.com"              # your host, for absolute URL
 baseurl: "/Jlcaoblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
-RSS: true
+RSS: false
 zhihu_username:     wang-le-6-62
 github_username:    caojiele
 linkedin_username:  Jack-cao-387159129
@@ -81,18 +81,18 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "Jlcao Blog",
-        href: "https://www.caojiele.com"
+        href: "https://caojiele.com"
     },{
         title: "曹",
-        href: "https://www.caojiele.com"
+        href: "https://caojiele.com"
     },{
         title: "杰",
-        href: "https://www.caojiele.com"
+        href: "https://caojiele.com"
     },{
         title: "乐",
-        href: "https://www.caojiele.com"
+        href: "https://caojiele.com"
     },{
         title: "曹小宝宝",
-        href: "https://www.caojiele.com"
+        href: "https://caojiele.com"
     }
 ]
